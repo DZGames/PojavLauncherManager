@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:PojavLauncherManager/model/release.dart';
-import 'package:PojavLauncherManager/ui/common/release_summary.dart';
-import 'package:PojavLauncherManager/ui/common/separator.dart';
-import 'package:PojavLauncherManager/ui/text_style.dart';
+import 'package:pojavlaunchermanager/model/release.dart';
+import 'package:pojavlaunchermanager/ui/common/release_summary.dart';
+import 'package:pojavlaunchermanager/ui/common/separator.dart';
+import 'package:pojavlaunchermanager/ui/text_style.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class DetailPage extends StatelessWidget {

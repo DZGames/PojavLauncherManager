@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:PojavLauncherManager/model/release.dart';
-import 'package:PojavLauncherManager/ui/common/separator.dart';
-import 'package:PojavLauncherManager/ui/detail/detail_page.dart';
-import 'package:PojavLauncherManager/ui/text_style.dart';
+import 'package:pojavlaunchermanager/model/release.dart';
+import 'package:pojavlaunchermanager/ui/common/separator.dart';
+import 'package:pojavlaunchermanager/ui/detail/detail_page.dart';
+import 'package:pojavlaunchermanager/ui/text_style.dart';
 
 class ReleaseSummary extends StatelessWidget {
   final Release myrelease;

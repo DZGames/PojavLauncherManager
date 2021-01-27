@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'ui/home/home_page.dart';
+import 'package:pojavlaunchermanager/ui/home/home_page.dart';
 
 void main() {
   runApp(

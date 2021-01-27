@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'home_page_body.dart';
-import 'package:PojavLauncherManager/ui/text_style.dart';
+import 'package:pojavlaunchermanager/ui/home/home_page_body.dart';
+import 'package:pojavlaunchermanager/ui/text_style.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatelessWidget {

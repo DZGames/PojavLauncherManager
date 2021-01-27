@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:PojavLauncherManager/model/release.dart';
-import 'package:PojavLauncherManager/ui/common/release_summary.dart';
+import 'package:pojavlaunchermanager/model/release.dart';
+import 'package:pojavlaunchermanager/ui/common/release_summary.dart';
 
 class HomePageBody extends StatelessWidget {
   @override
