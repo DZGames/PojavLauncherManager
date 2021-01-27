@@ -1,4 +1,4 @@
-package com.example.PojavLauncherManager
+package com.pablogod.PojavLauncherManager
 
 import io.flutter.embedding.android.FlutterActivity
 
