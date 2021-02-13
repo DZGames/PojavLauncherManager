@@ -1,4 +1,4 @@
-# PojavLauncherManager
+# Pojav Launcher Manager
 
 [![Build Status](https://travis-ci.com/DZGames/PojavLauncherManager.svg?branch=main)](https://travis-ci.com/DZGames/PojavLauncherManager)
 
@@ -9,7 +9,7 @@
     <img src="ic_launcher.png">
   </a>
 
-  <h3 align="center">PojavLauncherManager <br>
+  <h3 align="center">Pojav Launcher Manager<br>
   An app that gives you the latest releases of PojavLauncher (Minecraft Java for Android and iOs)</h3>
 
   <p align="center">
