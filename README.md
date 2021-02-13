@@ -14,7 +14,7 @@
 
   <p align="center">
     <br />
-    <a href="https://play.google.com/#">Play Store</a>(Playstore publish pending)
+    <a href="https://play.google.com/store/apps/details?id=com.pablogod.PojavLauncherManager">Play Store</a>
     ·
     <a href="#">Report Bug</a>
     ·
