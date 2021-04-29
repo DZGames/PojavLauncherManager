@@ -22,3 +22,9 @@
   </p>
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+### External resources to dev
+
+- Docker development: https://medium.com/@cezary.zelisko/how-to-prepare-a-flutter-workspace-in-a-docker-container-e56e0c7c7dcd
+
