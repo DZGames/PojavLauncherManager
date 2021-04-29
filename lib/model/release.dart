@@ -33,7 +33,7 @@ List<Release> releases = [
       url:
           "https://github.com/PojavLauncherTeam/PojavLauncher/releases/download/v3.3.1.1/app-debug.apk",
       image: "Assets/Images/icon_launcher.png",
-      picture: "https://i.imgur.com/k91a3nq.jpg"),
+      picture: "https://i.imgur.com/cJEu2yG.png"),
   const Release(
       id: "2",
       name: "Pojav Launcher (No-Runtime)",
@@ -45,5 +45,5 @@ List<Release> releases = [
       url:
           "https://github.com/PojavLauncherTeam/PojavLauncher/releases/download/v3.3.1.1/app-debug-noruntime.apk",
       image: "Assets/Images/icon_launcher2.png",
-      picture: "https://i.imgur.com/k91a3nq.jpg"),
+      picture: "https://i.imgur.com/cJEu2yG.png"),
 ];

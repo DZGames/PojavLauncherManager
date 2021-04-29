@@ -113,6 +113,30 @@ class DetailPage extends StatelessWidget {
                         )),
                   ),
                 ),
+                new Text(
+                  "Bugs and errors",
+                  style: Style.headerTextStyle,
+                ),
+                // new Spacer(),
+                new Separator(),
+                new Row(children: <Widget>[
+                  new Text(
+                    "Any error? Join our Telegram Support Channel!",
+                    style: Style.commonTextStyle,
+                  ),
+                  new ElevatedButton(
+                    child: Text("Telegram Support"),
+                    onPressed: () {
+                      _launchURL("https://t.me/pojavlauncher");
+                    },
+                    style: ElevatedButton.styleFrom(
+                      primary: Colors.red,
+                      onPrimary: Colors.white,
+                      shape: const BeveledRectangleBorder(
+                          borderRadius: BorderRadius.all(Radius.circular(10))),
+                    ),
+                  ),
+                ])
               ],
             ),
           ),
